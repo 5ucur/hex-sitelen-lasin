@@ -5,7 +5,7 @@ Currently only takes input once run (no stdin), and only outputs in text, to std
 
 Coded in good faith that all input will be valid toki pona and nothing else. Therefore, all wrong output is due to wrong input (garbage in, garbage out), and the _user's_ problem (also see license).
 
-## What is Tokex?
+## What is Tokex? Who is this Abigail?
 [Tokex](https://github.com/AbbyRead/Tokex/) is a hex encoding of the toki pona Latin alphabet, made by [Abigail Read](https://github.com/AbbyRead).
 
 ## What is toki pona?
