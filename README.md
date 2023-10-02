@@ -9,4 +9,4 @@ Coded in good faith that all input will be valid toki pona and nothing else. The
 [Tokex](https://github.com/AbbyRead/Tokex/) is a hex encoding of the toki pona Latin alphabet, made by [Abigail Read](https://github.com/AbbyRead).
 
 ## What is toki pona?
-Toki pona is a minimalistic constructed language, made by [Sonja Lang](https://lang.sg/)
+[Toki pona](https://tokipona.org/) is a minimalistic constructed language, made by [Sonja Lang](https://lang.sg/)
