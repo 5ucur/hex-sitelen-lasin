@@ -5,7 +5,7 @@ Takes input once run or via stdin, outputs in text or bytes to stdout, or in byt
 
 Since v1.1, checks for non-toki pona characters and skips them. Regardless, all wrong output is due to wrong input (garbage in, garbage out), and the _user's_ problem (also see license).
 
-v1.1 new features:
+### v1.1 new features:
 - Checking for non-toki pona characters
 - Stdin from file or console, output to binary file, output in bytes format
 - Input sanitisation
