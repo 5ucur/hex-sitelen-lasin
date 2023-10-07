@@ -1,5 +1,5 @@
 # tokex-convert-py
-A toki pona hex enoder, v1.1. Based on Tokex (see below), but encoding will probably diverge.
+A toki pona hex encoder, v1.1. Based on Tokex (see below), but encoding will probably diverge.
 
 Takes input once run or via stdin, outputs in text or bytes to stdout, or in bytes to a binary file. Doesn't implement the Tokex full stop conversion as of yet.
 
