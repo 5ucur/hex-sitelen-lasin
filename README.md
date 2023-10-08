@@ -16,4 +16,4 @@ Since v1.1, checks for non-toki pona characters and skips them. Regardless, all 
 [Tokex](https://github.com/AbbyRead/Tokex/) is a hex encoding of the toki pona Latin alphabet, created by [Abigail Read](https://github.com/AbbyRead). This project's encoding is likely to diverge from Abigail's, if only in minute details. Tokex is licensed under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ## What is toki pona?
-[Toki pona](https://tokipona.org/) is a minimalistic constructed language, made by [Sonja Lang](https://lang.sg/). With its orthographic inventory of just 14 letters (`aeijklmnopstuw`), it easily fits into the sixteen hex digits (`0-F`).
+[Toki pona](https://tokipona.org/) is a minimalistic constructed language, made by [Sonja Lang](https://lang.sg/). With its orthographic inventory of just 14 letters (`aeijklmnopstuw`), it easily fits into the sixteen hex digits (`0-F`). This work is based on the Official Toki Pona Dictionary, which is is in the public domain.
